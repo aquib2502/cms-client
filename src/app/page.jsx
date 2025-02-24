@@ -1,5 +1,5 @@
 "use client";
-import Navbar from "../components/layout/Navbar";
+import Navbar from "../components/layout/navbar.jsx";
 
 const HomePage = () => {
   return (
